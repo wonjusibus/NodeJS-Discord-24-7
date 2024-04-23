@@ -1,1 +1,12 @@
-
+{
+  "name": "NodeJS-Discord-24-7",
+  "version": "1.0.0",
+  "description": "Discord Bot as NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  }
+}
